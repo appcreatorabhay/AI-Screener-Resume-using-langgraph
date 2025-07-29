@@ -34,3 +34,9 @@ bash
 Copy
 Edit
 streamlit run app.py
+
+<img width="434" height="385" alt="image" src="https://github.com/user-attachments/assets/14605e3d-2700-48fb-9c4f-3ec235060920" />
+<img width="434" height="385" alt="Second File" src="https://github.com/user-attachments/assets/41032de3-a518-4546-b583-4638a820a4c7" />
+
+
+
