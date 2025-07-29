@@ -10,7 +10,7 @@ from langgraph.graph import StateGraph, START, END
 # -------------------------
 # ✅ SET YOUR GEMINI API KEY HERE
 # -------------------------
-os.environ["GOOGLE_API_KEY"] = "AIzaSyDk7PllVv2Xf3I1Ggx2JzGxTeHtmak5S2c"
+os.environ["GOOGLE_API_KEY"] = "Put your api key"
 
 if not os.environ.get("GOOGLE_API_KEY"):
     st.error("❌ Google Gemini API key not found!")
