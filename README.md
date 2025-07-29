@@ -1,6 +1,7 @@
+<img width="420" height="383" alt="First file" src="https://github.com/user-attachments/assets/03cf63c0-0646-4250-96ef-65081cabfc71" />
 
 <img width="434" height="385" alt="image" src="https://github.com/user-attachments/assets/14605e3d-2700-48fb-9c4f-3ec235060920" />
-<img width="434" height="385" alt="Second File" src="https://github.com/user-attachments/assets/41032de3-a518-4546-b583-4638a820a4c7" />
+
 
 
 # 🤖 AI Resume Screener with Google Gemini
